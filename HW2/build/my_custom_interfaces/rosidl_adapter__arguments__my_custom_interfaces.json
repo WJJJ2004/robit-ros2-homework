@@ -1,0 +1,6 @@
+{
+  "package_name": "my_custom_interfaces",
+  "non_idl_tuples": [
+    "/home/lwj/ros2_ws/src/my_custom_interfaces:msg/MyCustomMessage.msg"
+  ]
+}

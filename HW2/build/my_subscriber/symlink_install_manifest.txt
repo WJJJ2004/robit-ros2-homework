@@ -1,0 +1,16 @@
+/home/lwj/ros2_ws/install/my_subscriber/lib/my_subscriber/subscriber_node
+/home/lwj/ros2_ws/install/my_subscriber/share/ament_index/resource_index/package_run_dependencies/my_subscriber
+/home/lwj/ros2_ws/install/my_subscriber/share/ament_index/resource_index/parent_prefix_path/my_subscriber
+/home/lwj/ros2_ws/install/my_subscriber/share/my_subscriber/environment/ament_prefix_path.sh
+/home/lwj/ros2_ws/install/my_subscriber/share/my_subscriber/environment/ament_prefix_path.dsv
+/home/lwj/ros2_ws/install/my_subscriber/share/my_subscriber/environment/path.sh
+/home/lwj/ros2_ws/install/my_subscriber/share/my_subscriber/environment/path.dsv
+/home/lwj/ros2_ws/install/my_subscriber/share/my_subscriber/local_setup.bash
+/home/lwj/ros2_ws/install/my_subscriber/share/my_subscriber/local_setup.sh
+/home/lwj/ros2_ws/install/my_subscriber/share/my_subscriber/local_setup.zsh
+/home/lwj/ros2_ws/install/my_subscriber/share/my_subscriber/local_setup.dsv
+/home/lwj/ros2_ws/install/my_subscriber/share/my_subscriber/package.dsv
+/home/lwj/ros2_ws/install/my_subscriber/share/ament_index/resource_index/packages/my_subscriber
+/home/lwj/ros2_ws/install/my_subscriber/share/my_subscriber/cmake/my_subscriberConfig.cmake
+/home/lwj/ros2_ws/install/my_subscriber/share/my_subscriber/cmake/my_subscriberConfig-version.cmake
+/home/lwj/ros2_ws/install/my_subscriber/share/my_subscriber/package.xml
