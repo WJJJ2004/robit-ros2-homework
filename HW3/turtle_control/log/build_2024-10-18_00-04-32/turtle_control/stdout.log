@@ -1,0 +1,75 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Found rclcpp: 16.0.10 (/opt/ros/humble/share/rclcpp/cmake)
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+-- Found FastRTPS: /opt/ros/humble/include  
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE  
+-- Found geometry_msgs: 4.2.4 (/opt/ros/humble/share/geometry_msgs/cmake)
+-- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found suitable version "1.74.0", minimum required is "1.71.0") found components: thread 
+-- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+-- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: /home/lwj/turtle_control/include;/home/lwj/turtle_control/build/turtle_control
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'cpplint' to check C / C++ code against the Google style
+-- Configured cpplint exclude dirs and/or files: 
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'uncrustify' to check C / C++ code style
+-- Configured uncrustify additional arguments: 
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/lwj/turtle_control/build/turtle_control
+[ 11%] [34m[1mGenerating include/turtle_control/moc_qnode.cpp[0m
+[ 22%] [34m[1mGenerating ui_mainwindow.h[0m
+[ 33%] [34m[1mGenerating include/turtle_control/moc_main_window.cpp[0m
+[ 44%] [32mBuilding CXX object CMakeFiles/turtle_control.dir/src/main_window.cpp.o[0m
+[ 55%] [32mBuilding CXX object CMakeFiles/turtle_control.dir/include/turtle_control/moc_main_window.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/turtle_control.dir/include/turtle_control/moc_qnode.cpp.o[0m
+[ 77%] [32mBuilding CXX object CMakeFiles/turtle_control.dir/src/qnode.cpp.o[0m
+[ 88%] [32mBuilding CXX object CMakeFiles/turtle_control.dir/src/main.cpp.o[0m
+[100%] [32m[1mLinking CXX executable turtle_control[0m
+[100%] Built target turtle_control
+-- Install configuration: ""
+-- Installing: /home/lwj/turtle_control/install/turtle_control/lib/turtle_control/turtle_control
+-- Set runtime path of "/home/lwj/turtle_control/install/turtle_control/lib/turtle_control/turtle_control" to ""
+-- Installing: /home/lwj/turtle_control/install/turtle_control/share/ament_index/resource_index/package_run_dependencies/turtle_control
+-- Installing: /home/lwj/turtle_control/install/turtle_control/share/ament_index/resource_index/parent_prefix_path/turtle_control
+-- Installing: /home/lwj/turtle_control/install/turtle_control/share/turtle_control/environment/ament_prefix_path.sh
+-- Installing: /home/lwj/turtle_control/install/turtle_control/share/turtle_control/environment/ament_prefix_path.dsv
+-- Installing: /home/lwj/turtle_control/install/turtle_control/share/turtle_control/environment/path.sh
+-- Installing: /home/lwj/turtle_control/install/turtle_control/share/turtle_control/environment/path.dsv
+-- Installing: /home/lwj/turtle_control/install/turtle_control/share/turtle_control/local_setup.bash
+-- Installing: /home/lwj/turtle_control/install/turtle_control/share/turtle_control/local_setup.sh
+-- Installing: /home/lwj/turtle_control/install/turtle_control/share/turtle_control/local_setup.zsh
+-- Installing: /home/lwj/turtle_control/install/turtle_control/share/turtle_control/local_setup.dsv
+-- Installing: /home/lwj/turtle_control/install/turtle_control/share/turtle_control/package.dsv
+-- Installing: /home/lwj/turtle_control/install/turtle_control/share/ament_index/resource_index/packages/turtle_control
+-- Installing: /home/lwj/turtle_control/install/turtle_control/share/turtle_control/cmake/turtle_controlConfig.cmake
+-- Installing: /home/lwj/turtle_control/install/turtle_control/share/turtle_control/cmake/turtle_controlConfig-version.cmake
+-- Installing: /home/lwj/turtle_control/install/turtle_control/share/turtle_control/package.xml

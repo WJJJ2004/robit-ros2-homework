@@ -1,0 +1,5 @@
+-I/home/lwj/turtle_control
+-I/home/lwj/turtle_control/build/turtle_control
+-o
+/home/lwj/turtle_control/build/turtle_control/include/turtle_control/moc_qnode.cpp
+/home/lwj/turtle_control/include/turtle_control/qnode.hpp

@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>turtle_control</name>
+  <version>0.1.0</version>
+  <description>
+    turtle_control package description
+  </description>
+  <maintainer email="author@mail.com">author</maintainer>
+  <author email="author@mail.com">author</author>
+  <license>BSD</license>
+
+  <!-- 빌드 도구 의존성 -->
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <!-- 런타임 및 빌드 의존성 -->
+  <build_depend>rclcpp</build_depend>
+  <exec_depend>rclcpp</exec_depend>
+
+  <build_depend>std_msgs</build_depend>
+  <exec_depend>std_msgs</exec_depend>
+
+  <build_depend>geometry_msgs</build_depend>
+  <exec_depend>geometry_msgs</exec_depend>
+
+  <build_depend>rosidl_default_generators</build_depend>
+  <exec_depend>rosidl_default_runtime</exec_depend>
+
+  <!-- Qt5 관련 의존성 -->
+  <build_depend>qt5</build_depend>
+  <exec_depend>qt5</exec_depend>
+  <build_depend>libqt5widgets5</build_depend>
+  <exec_depend>libqt5widgets5</exec_depend>
+
+  <!-- 테스트 의존성 -->
+  <test_depend>ament_lint_auto</test_depend>
+  <test_depend>ament_lint_common</test_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
+

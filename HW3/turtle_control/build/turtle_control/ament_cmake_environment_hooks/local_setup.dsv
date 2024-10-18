@@ -1,0 +1,2 @@
+source;share/turtle_control/environment/ament_prefix_path.sh
+source;share/turtle_control/environment/path.sh

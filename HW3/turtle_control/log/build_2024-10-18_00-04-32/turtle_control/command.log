@@ -1,0 +1,6 @@
+Invoking command in '/home/lwj/turtle_control/build/turtle_control': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/lwj/turtle_control -DCMAKE_INSTALL_PREFIX=/home/lwj/turtle_control/install/turtle_control
+Invoked command in '/home/lwj/turtle_control/build/turtle_control' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/lwj/turtle_control -DCMAKE_INSTALL_PREFIX=/home/lwj/turtle_control/install/turtle_control
+Invoking command in '/home/lwj/turtle_control/build/turtle_control': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/lwj/turtle_control/build/turtle_control -- -j16 -l16
+Invoked command in '/home/lwj/turtle_control/build/turtle_control' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/lwj/turtle_control/build/turtle_control -- -j16 -l16
+Invoking command in '/home/lwj/turtle_control/build/turtle_control': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/lwj/turtle_control/build/turtle_control
+Invoked command in '/home/lwj/turtle_control/build/turtle_control' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/lwj/turtle_control/build/turtle_control
