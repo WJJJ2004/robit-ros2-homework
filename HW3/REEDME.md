@@ -10,6 +10,6 @@ source ~/robot_ws/install/setup.bash
 # 3. Turtlesim 노드 실행
 ros2 run turtlesim turtlesim_node
 
-# 4. Teleop 노드 실행
+# 4. 터틀 컨트롤 UI 노드 실행
 ros2 run turtle_control turtle_control 
 
