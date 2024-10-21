@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>keypad</name>
+  <version>0.1.0</version>
+  <description>
+    description
+  </description>
+  <maintainer email="author@mail.com">author</maintainer>
+  <author>author</author>
+  <license>BSD</license>
+
+  <!-- Build tool dependencies -->
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <!-- Build and run dependencies -->
+  <build_depend>rclcpp</build_depend>
+  <exec_depend>rclcpp</exec_depend>
+
+  <build_depend>std_msgs</build_depend>
+  <exec_depend>std_msgs</exec_depend>
+
+  <build_depend>Boost</build_depend>
+  <exec_depend>Boost</exec_depend>
+
+  <build_depend>Qt5Widgets</build_depend>
+  <exec_depend>Qt5Widgets</exec_depend>
+  <build_depend>Qt5Core</build_depend>
+  <exec_depend>Qt5Core</exec_depend>
+  <build_depend>Qt5Gui</build_depend>
+  <exec_depend>Qt5Gui</exec_depend>
+  <build_depend>Qt5Network</build_depend>
+  <exec_depend>Qt5Network</exec_depend>
+
+  <!-- Test dependencies -->
+  <test_depend>ament_lint_auto</test_depend>
+  <test_depend>ament_lint_common</test_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
+

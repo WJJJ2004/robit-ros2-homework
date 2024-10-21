@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/front1.png</file>        <!-- 경로 간단하게 images로 수정 -->
+        <file>images/jump0.png</file>
+        <file>images/jump1.png</file>
+        <file>images/jump2.png</file>
+        <file>images/jump3.png</file>
+        <file>images/jump4.png</file>
+        <file>images/left1.png</file>
+        <file>images/left2.png</file>
+        <file>images/left3.png</file>
+        <file>images/left4.png</file>
+        <file>images/left5.png</file>
+        <file>images/right1.png</file>
+        <file>images/right2.png</file>
+        <file>images/right3.png</file>
+        <file>images/right4.png</file>
+        <file>images/right5.png</file>
+        <file>images/background.png</file>   <!-- 간단하게 images로 -->
+    </qresource>
+</RCC>
+
